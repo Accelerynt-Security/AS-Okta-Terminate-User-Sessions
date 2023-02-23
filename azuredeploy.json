@@ -156,7 +156,7 @@
                             "actions": {
                                 "Condition_-_Check_for_Results": {
                                     "actions": {
-                                        "HTTP": {
+                                        "HTTP-_Terminate_User_Sessions": {
                                             "runAfter": {},
                                             "type": "Http",
                                             "inputs": {
