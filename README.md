@@ -78,28 +78,9 @@ Once the resources have validated, click on "**Create**".
 ![UserSessions_Deploy_2](Images/UserSessions_Deploy_2.png)
 
 The resources should take around a minute to deploy. Once the deployment is complete, you can expand the "**Deployment details**" section to view them.
-Click the one corresponding to the Logic App.
+To view the deployed Logic App, click the resource that corresponds to it.
 
 ![UserSessions_Deploy_3](Images/UserSessions_Deploy_3.png)
-
-Click on the “**Edit**” button. This will bring us into the Logic Apps Designer.
-
-![UserSessions_Deploy_4](Images/UserSessions_Deploy_4.png)
-
-The first and second steps labeled "**Connections**" use a connection created during the deployment of this playbook. Before the playbook can be run, this connection will either need to be authorized in the indicated steps, or an existing authorized connection may be alternatively selected.  
-
-![UserSessions_Deploy_5](Images/UserSessions_Deploy_5.png)
-
-To validate the connections created for this playbook, expand the "**Connections**" step and click the exclamation point icon next to the name matching the playbook.
-                                                                                                
-![UserSessions_Deploy_6](Images/UserSessions_Deploy_6.png)
-
-When prompted, sign in to validate the connection.                                                                                                
-                                                                                                
-![UserSessions_Deploy_7](Images/UserSessions_Deploy_7.png)                                                                                                                                                                                                                                                   
-The same connection may need to be reselected for the second step. After a valid connection is established for the first two steps, click the "**Save**" button.
-
-![UserSessions_Deploy_8](Images/UserSessions_Deploy_8.png)  
 
 #
 ### Granting Access to Azure Key Vault
