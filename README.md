@@ -11,9 +11,6 @@ This playbook is intended to be run from a Microsoft Sentinel Incident. It will 
 
 ![UserSessions_Demo_1](Images/UserSessions_Demo_1.png)
 
-![UserSessions_Demo_2](Images/UserSessions_Demo_2.png)
-
-
 #
 ### Requirements
 
